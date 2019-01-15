@@ -4,10 +4,10 @@
     "using_android": true,
     "firestore": false,
     "realtimedb": false,
-    "authentication": true,
+    "authentication": false,
     "remote_config": true,
     "performance_monitoring": false,
-    "messaging": true,
+    "messaging": false,
     "crashlytics": true,
     "crash_reporting": false,
     "storage": false,
@@ -16,6 +16,5 @@
     "google_auth": false,
     "admob": false,
     "invites": false,
-    "dynamic_links": false,
-    "ml_kit": false
+    "dynamic_links": false
 }
